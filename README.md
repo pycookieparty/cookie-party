@@ -1,5 +1,7 @@
 # Cookie Party
 
+
+PyPI に自分の書いたライブラリを登録して世界中から `pip install` できるようにしてみたいプロジェクト｡  
 # install
 ```
 pip install cookie-party
